@@ -38,7 +38,7 @@ No installation is required. Just execute the .exe file or build it using the so
 Suggestions are always welcome!
 
 ## :warning: License
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the no License.
 
 ## :handshake: Contact
 - E-Mail - manoj200801@gmail.com
