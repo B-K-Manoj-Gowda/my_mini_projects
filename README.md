@@ -2,39 +2,41 @@
   <h1>MY MINI PROJECTS</h1>  
   <!-- Badges -->
 <h4>
-    <a href="https://github.com/B-K-Manoj-Gowda/my_mini_projects/issues/">Report Bug</a>
+    :lady_beetle:<a href="https://github.com/B-K-Manoj-Gowda/my_mini_projects/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/B-K-Manoj-Gowda/my_mini_projects/issues/">Request Feature</a>
+    :raised_hand:<a href="https://github.com/B-K-Manoj-Gowda/my_mini_projects/issues/">Request Feature</a>
   </h4>
 </div>
 
-# :notebook_with_decorative_cover: Table of Contents
-- [Prerequisites](#bangbang-prerequisites)
+# :clipboard: Table of Contents
+- [Technology Used](#technologist-technology-used)
+- [Prerequisites](#heavy_check_mark-prerequisites)
 - [Installation](#gear-installation)
-- [Usage](#eyes-usage)
-- [Contributing](#wave-contributing)
+- [Usage](#computer-usage)
+- [Contributing](#handshake-contributing)
 - [License](#warning-license)
-- [Contact](#handshake-contact)  
+- [Contact](#envelope-contact)  
 
-### :space_invader: Technology Used
-C Programming Language: C is a procedural programming language. It was initially developed by Dennis Ritchie in the year 1972. It was mainly developed as a system programming language to write an operating system. The main features of the C language include low-level memory access, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development.
+## :technologist: Technology Used
+C Programming Language: C is a procedural programming language. It was mainly developed as a system programming language to write an operating system. The main features of the C language include low-level memory access, a simple set of keywords and a clean style.
 
-### :bangbang: Prerequisites
+## :heavy_check_mark: Prerequisites
 To run the source code a basic code editor and C compiler is recommended to be installed on the computer.
 
-### :gear: Installation
+## :gear: Installation
 No installation is required. Just execute the .exe file or build it using the source code.
    
-## :eyes: Usage
+## :computer: Usage
 1. Unit Converter: Can be used to convert various quantities and their units
 
-## :wave: Contributing
+## :handshake: Contributing
 Suggestions are always welcome!
+If you liked this repository please give a :star: on the top right corner !!
 
 ## :warning: License
 Distributed under the no License.
 
-## :handshake: Contact
+## :envelope: Contact
 - E-Mail - manoj200801@gmail.com
 - LinkedIn - https://www.linkedin.com/in/b-k-manoj-gowda/
 - Twitter - @twi
