@@ -9,18 +9,12 @@
 </div>
 
 # :notebook_with_decorative_cover: Table of Contents
-- [About](#star2-about)
 - [Prerequisites](#bangbang-prerequisites)
 - [Installation](#gear-installation)
 - [Usage](#eyes-usage)
 - [Contributing](#wave-contributing)
 - [License](#warning-license)
 - [Contact](#handshake-contact)  
-
-## :star2: About
-  <p>
-    A bunch of small projects which I created to practice coding !!
-  </p>
 
 ### :space_invader: Technology Used
 C Programming Language: C is a procedural programming language. It was initially developed by Dennis Ritchie in the year 1972. It was mainly developed as a system programming language to write an operating system. The main features of the C language include low-level memory access, a simple set of keywords, and a clean style, these features make C language suitable for system programmings like an operating system or compiler development.
